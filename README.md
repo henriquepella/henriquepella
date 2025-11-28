@@ -36,4 +36,3 @@ GitHub: henriquepella
 
 Email: henriquepella34@gmail.com
 
-✨ “Always learning, always improving — ready to take on new challenges in tech.”

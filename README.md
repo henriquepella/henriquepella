@@ -66,7 +66,7 @@ Dashboard esportivo e financeiro desenvolvido em Java, com foco em organização
 
 ## 📫 Onde me encontrar
 
-🔗 LinkedIn: [linkedin.com/in/henriqueaguiar-16009b328](https://www.linkedin.com/in/henriqueaguiar-16009b328/)  
+🔗 LinkedIn: [[linkedin.com/in/henriqueaguiar-16009b328](https://www.linkedin.com/in/henriqueaguiar-16009b328/)
 💼 GitHub: [github.com/henriquepella](https://github.com/henriquepella)  
 📧 Email: **henriquepella34@gmail.com**
 

@@ -1,7 +1,10 @@
+<h1 align="center">
+  <a href="https://portifolio-git-main-henrique-aguiar-de-souza-pellas-projects.vercel.app/" target="_blank">
+    Meu Portfólio
+  </a>
+</h1>
 
-<h1 align="center"> https://portifolio-git-main-henrique-aguiar-de-souza-pellas-projects.vercel.app/
-
-<h2 align="center">👋 Olá, eu sou o Henrique Pella</h1>
+<h2 align="center">👋 Olá, eu sou o Henrique Pella</h2>
 
 <h3 align="center">Analista de Sistemas | Desenvolvedor em formação</h3>
 
@@ -66,9 +69,14 @@ Dashboard esportivo e financeiro desenvolvido em Java, com foco em organização
 
 ## 📫 Onde me encontrar
 
-🔗 LinkedIn: [[linkedin.com/in/henriqueaguiar-16009b328](https://www.linkedin.com/in/henriqueaguiar-16009b328/)
-💼 GitHub: [github.com/henriquepella](https://github.com/henriquepella)  
-📧 Email: **henriquepella34@gmail.com**
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/henrique-aguiar-de-souza-pella-16009b328/
+
+💼 **GitHub:**  
+https://github.com/henriquepella  
+
+📧 **Email:**  
+**henriquepella34@gmail.com**
 
 ---
 

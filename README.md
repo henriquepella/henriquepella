@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Bacharel em **Sistemas de Informação** pela **PUC Campinas** (2024 – 2027)  
+🎓 Bacharel em **Engenharia de Software** pela **PUC Campinas** (2024 – 2027)  
 💡 Analista de Sistemas em início de carreira, com foco em **desenvolvimento de software** e **qualidade de software (QA)**  
 📈 Comprometido com aprendizado contínuo, resolução de problemas e trabalho em equipe  
 🌎 Inglês avançado (Foreign Exchange Student)

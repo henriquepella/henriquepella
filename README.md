@@ -21,18 +21,19 @@
 
 ## Tecnologias
 
-- **Uso com segurança:** Python · Java · HTML · CSS · JavaScript · Git/GitHub
-- **Python para dados:** Pandas · NumPy · GeoPandas · Matplotlib
-- **Conhecimento básico (projetos acadêmicos e de estudo):** SQL (MySQL) · Node.js · APIs REST · C
+- **Intermediário:** Python · Java · HTML · CSS · JavaScript · Git/GitHub
+- **Python para dados:** Pandas · NumPy · GeoPandas · Matplotlib · ReportLab
+- **Básico (em projetos):** SQL (MySQL, Oracle, PostgreSQL) · TypeScript · Node.js · APIs REST · Kotlin
+- **Ferramentas usadas nos projetos:** FastAPI · pytest · Next.js · JDBC · Maven · Docker
 
 ## Projetos
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [Aldino](https://github.com/henriquepella/Aldino2) | Projeto **freelancer**: análise geoespacial com relatórios em PDF automáticos | Python, Pandas, GeoPandas, ReportLab |
-| [Biblioteca](https://github.com/henriquepella/Biblioteca-java) | Sistema de biblioteca com POO e banco de dados (em desenvolvimento) | Java, MySQL, JDBC |
-| [Aurora](https://github.com/henriquepella/aurora-assistente) | Assistente de perguntas e respostas baseado em documentos (projeto de estudo) | Python, FastAPI, pytest |
-| [Fluxo](https://github.com/henriquepella/fluxo) | App de finanças pessoais (projeto de estudo, em desenvolvimento) | TypeScript, Next.js, NestJS |
+| [Aldino](https://github.com/henriquepella/Aldino2) | Projeto **freelancer**: análise geoespacial com relatórios em PDF automáticos | Python, Pandas, NumPy, GeoPandas, Matplotlib, ReportLab |
+| [Biblioteca](https://github.com/henriquepella/Biblioteca-java) | Sistema de biblioteca com POO e banco de dados (em desenvolvimento) | Java, MySQL, JDBC, Maven |
+| [Aurora](https://github.com/henriquepella/aurora-assistente) | Assistente de perguntas e respostas baseado em documentos (projeto de estudo) | Python, FastAPI, pytest, Docker |
+| [Fluxo](https://github.com/henriquepella/fluxo) | App de finanças pessoais (projeto de estudo, em desenvolvimento) | TypeScript, Node.js (NestJS), Next.js, PostgreSQL |
 | [Portfólio](https://github.com/henriquepella/portfolio) | Meu portfólio pessoal (projeto de estudo) | Next.js, TypeScript |
 
 ---

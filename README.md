@@ -1,89 +1,40 @@
-<h1 align="center">
-  <a href="https://portifolio-henrique-aguiar-de-souza-pellas-projects.vercel.app?_vercel_share=LKNNFUSCtidP6bcQgretLv5M9CiJz4YD" target="_blank">
-    Meu Portfólio
-  </a>
-</h1>
-
-<h2 align="center">👋 Olá, eu sou o Henrique Pella</h2>
-
-<h3 align="center">Analista de Sistemas | Desenvolvedor em formação</h3>
+<h2 align="center">Olá, eu sou o Henrique Pella 👋</h2>
 
 <p align="center">
-  💻 Desenvolvimento de Software • QA • Java • Python • Web Development  
+  Estudante de <b>Engenharia de Software</b> na PUC-Campinas · Busco <b>estágio em desenvolvimento back-end e front-end</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/henriquepella">LinkedIn</a> ·
+  <a href="https://portifolio-henrique-aguiar-de-souza-pellas-projects.vercel.app/">Portfólio</a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-🎓 Bacharel em **Engenharia de Software** pela **PUC Campinas** (2024 – 2027)  
-💡 Analista de Sistemas em início de carreira, com foco em **desenvolvimento de software** e **qualidade de software (QA)**  
-📈 Comprometido com aprendizado contínuo, resolução de problemas e trabalho em equipe  
-🌎 Inglês avançado (Foreign Exchange Student)
+- 🎓 Engenharia de Software na **PUC-Campinas**, 6º semestre (conclusão prevista em dez/2027)
+- 💻 Foco em **desenvolvimento back-end e front-end** com Python e Java
+- 🗺️ Projeto freelancer de **análise geoespacial em Python** (2025)
+- 🌎 **Inglês avançado**: cursei um ano do ensino médio na Lassen High School, Califórnia (EUA)
+- 🕐 Disponível para estágio à tarde (12h às 18h), remoto ou em Campinas e região
 
----
+## Tecnologias
 
-## 🛠️ Tecnologias e Ferramentas
+- **Uso com segurança:** Python · Java · HTML · CSS · JavaScript · Git/GitHub
+- **Python para dados:** Pandas · NumPy · GeoPandas · Matplotlib
+- **Conhecimento básico (projetos acadêmicos e de estudo):** SQL (MySQL) · Node.js · APIs REST · C
 
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Projetos
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### ⚙️ Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [Aldino](https://github.com/henriquepella/Aldino2) | Projeto **freelancer**: análise geoespacial com relatórios em PDF automáticos | Python, Pandas, GeoPandas, ReportLab |
+| [Biblioteca](https://github.com/henriquepella/Biblioteca-java) | Sistema de biblioteca com POO e banco de dados (em desenvolvimento) | Java, MySQL, JDBC |
+| [Aurora](https://github.com/henriquepella/aurora-assistente) | Assistente de perguntas e respostas baseado em documentos (projeto de estudo) | Python, FastAPI, pytest |
+| [Fluxo](https://github.com/henriquepella/fluxo) | App de finanças pessoais (projeto de estudo, em desenvolvimento) | TypeScript, Next.js, NestJS |
+| [Portfólio](https://github.com/henriquepella/portfolio) | Meu portfólio pessoal (projeto de estudo) | Next.js, TypeScript |
 
 ---
 
-## 📂 Projetos em Destaque
-
-🎰 **Cassino em C**  
-Projeto integrador desenvolvido em linguagem C, aplicando lógica de programação, funções, vetores e estruturas.
-
-⚽ **Fut 360 (Java)**  
-Dashboard esportivo e financeiro desenvolvido em Java, com foco em organização de dados, relatórios e análise.
-
----
-
-## 🏆 Experiência
-
-🎮 **Diretor da modalidade de Esports – Puccamp Cardinals**  
-📅 2025 – Atual (Voluntariado)  
-- Organização e gestão da modalidade  
-- Trabalho em equipe e liderança  
-- Planejamento e tomada de decisões
-
----
-
-## 📫 Onde me encontrar
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/henrique-aguiar-de-souza-pella-16009b328/
-
-💼 **GitHub:**  
-https://github.com/henriquepella  
-
-📧 **Email:**  
-**henriquepella34@gmail.com**
-
----
-
-<p align="center">
-  🚀 Sempre aberto a oportunidades, feedbacks e novos desafios!
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henriquepella&color=blueviolet&style=flat-square" />
-</p>
+<p align="center">📫 Aberto a oportunidades de estágio. Fale comigo pelo <a href="https://www.linkedin.com/in/henriquepella">LinkedIn</a>.</p>
